@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"name": "cs202",
+			"path": "../../cs202"
+		},
+		{
+			"name": "assign06_files",
+			"path": "../assign06_files"
+		},
+		{
+			"name": "assignment_input (1)",
+			"path": "../assignment_input (1)"
+		},
+		{
+			"name": "assignment_input-1",
+			"path": "."
+		},
+		{
+			"name": "input_files",
+			"path": "../input_files"
+		},
+		{
+			"name": "assign08_input",
+			"path": "../assign08_input"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.module": "php",
+			"ostream": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}
